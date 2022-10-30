@@ -6,9 +6,9 @@
 
 ![](https://cdn.discordapp.com/emojis/995680773728370768.webp?size=44&quality=lossless) Server Version: **1.16.5 (modded)**
 
-![](https://cdn.discordapp.com/emojis/995680773728370768.webp?size=44&quality=lossless) Modpack Version: **1.16.5 (modded)**
+![](https://cdn.discordapp.com/emojis/995680773728370768.webp?size=44&quality=lossless) Modpack Version: **1.0**
 
-![](https://cdn.discordapp.com/emojis/995680773728370768.webp?size=44&quality=lossless) Modpack Download: [here]()
+![](https://cdn.discordapp.com/emojis/995680773728370768.webp?size=44&quality=lossless) Important Info: [Whitelist Applications](https://discord.gg/mbvs3FDeww) / [Lynx Modpack Info]()
 
 
 ![]([https://cdn.discordapp.com/attachments/899782127414030356/899799454830436392/242546225_240150434794697_2911623857439945128_n.jpg](https://cdn.discordapp.com/emojis/995680773728370768.webp?size=44&quality=lossless))
