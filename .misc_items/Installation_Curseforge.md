@@ -1,7 +1,7 @@
 # ATLAUNCHER 
 
 ## Return to info page
-[here](https://github.com/Vokuar/Teamladybug/blob/LynxMC/Modpack_Info.MD)
+[here](https://github.com/Vokuar/Teamladybug/blob/LynxMC/.misc_items/Modpack_Info.MD)
 ## Info 
 CURSEFORGE
 
