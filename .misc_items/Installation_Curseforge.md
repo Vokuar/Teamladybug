@@ -1,4 +1,4 @@
-# ATLAUNCHER 
+# Curseforge
 
 ## Return to info page
 [here](https://github.com/Vokuar/Teamladybug/blob/LynxMC/.misc_items/Modpack_Info.MD)
