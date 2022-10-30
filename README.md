@@ -1,4 +1,6 @@
 # Teamladybug
-This is a page for ladybug mc related stuff choose which branch you would like info on 
+This is a page for ladybug mc related stuff
 this is the discord for the servers
-[LadybugMC](https://discord.gg/Ja7NxCxkua)
+LadybugMC info [here]
+LynxMC info [here]
+LynxMCClassic Info [here]
