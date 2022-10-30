@@ -1,1 +1,1 @@
-# LYNX MINECRAFT MODPACK INFO 
+# ![](https://cdn.discordapp.com/emojis/995680773728370768.webp?size=44&quality=lossless) LYNX MINECRAFT MODPACK INFO ![](https://cdn.discordapp.com/emojis/995680773728370768.webp?size=44&quality=lossless)
