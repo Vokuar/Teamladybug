@@ -1,4 +1,4 @@
-**LYNX MINECRAFT**
+# **LYNX MINECRAFT**
 
 ![](https://cdn.discordapp.com/emojis/995680773728370768.webp?size=44&quality=lossless) Server IP 1: **lynx.mc.gg**
 
