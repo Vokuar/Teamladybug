@@ -1,4 +1,4 @@
-**LADYBUG Minecraft**
+**LADYBUG MINECRAFT**
 
 ![](https://cdn.discordapp.com/emojis/899751455450349589.webp?size=44&quality=lossless) Server IP 1: **ladybug.mc.gg**
 
