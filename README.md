@@ -10,6 +10,11 @@ To return to main page click [here](https://github.com/Vokuar/Teamladybug)
 
 ![](https://cdn.discordapp.com/emojis/995680773728370768.webp?size=44&quality=lossless) Modpack Version: **1.0**
 
+![](https://cdn.discordapp.com/attachments/899782127414030356/999415551283712102/lynxlogo.png)
+
+# Whitelist
+Applications for the whitelist are on the discord server
+
 # Mod List
 Current Mod List
 <!--
