@@ -2,8 +2,8 @@
 # ATLAUNCHER 
 
 ## Return to info page
-[here]()
-
+[here](https://github.com/Vokuar/Teamladybug/blob/LynxMC/Modpack_Info.MD)
+## Info
 ![](https://cdn.discordapp.com/emojis/995680773728370768.webp?size=44&quality=lossless) Download, install, and set up ATLauncher (https://atlauncher.com/downloads). 
 
 ![](https://cdn.discordapp.com/emojis/995680773728370768.webp?size=44&quality=lossless) Download either the CurseForge or the MultiMC version of the modpack, since ATLauncher supports both. Do not extract it.
