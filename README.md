@@ -10,4 +10,4 @@ LynxMC info [here](https://github.com/Vokuar/Teamladybug/blob/LynxMC/README.md)
 
 LynxMCClassic Info [here](https://github.com/Vokuar/Teamladybug/blob/LynxMCClassic/README.md)
 
-and our website is [here] along with the [github] to it 
+and our website is [here](https://vokuar.github.io/) along with the [github](https://github.com/Vokuar/Vokuar.github.io) to it 
