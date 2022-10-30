@@ -6,7 +6,7 @@ This is a page for ladybug mc related stuff
 
 
 
-this is the discord for the servers
+this is the discord [invite link](https://discord.gg/Ja7NxCxkua) for the servers
 
 
 
