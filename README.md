@@ -1,6 +1,6 @@
 # **LADYBUG MINECRAFT**
 
-To return to main page click [here](https://github.com/Vokuar/Teamladybug/blob/main/README.md)
+To return to main page click [here](https://github.com/Vokuar/Teamladybug)
 
 ![](https://cdn.discordapp.com/emojis/899751455450349589.webp?size=44&quality=lossless) Server IP 1: **ladybug.mc.gg**
 
