@@ -8,7 +8,7 @@ LadybugMC info [here](https://github.com/Vokuar/Teamladybug/tree/LadybugMC)
 
 LynxMC info [here](https://github.com/Vokuar/Teamladybug/tree/LynxMC)
 
-LynxMCClassic Info [here](https://github.com/Vokuar/Teamladybug/tree/LynxClassicMC)
+LynxMCClassic Info [here](https://github.com/Vokuar/Teamladybug/tree/LynxMCClassic)
 
 
 [Our Website](https://vokuar.github.io/TeamLadybug.github.io/) (currently under construction)
