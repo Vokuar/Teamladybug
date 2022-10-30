@@ -2,7 +2,7 @@
 # ATLAUNCHER 
 
 ## Return to info page
-[here](https://github.com/Vokuar/Teamladybug/blob/LynxMC/Modpack_Info.MD)
+[here](https://github.com/Vokuar/Teamladybug/blob/LynxMC/.misc_items/Modpack_Info.MD)
 ## Info
 ![](https://cdn.discordapp.com/emojis/995680773728370768.webp?size=44&quality=lossless) Download, install, and set up ATLauncher (https://atlauncher.com/downloads). 
 
