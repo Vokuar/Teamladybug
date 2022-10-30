@@ -1,6 +1,6 @@
 # **LYNX MINECRAFT**
 
-To return to main page click [here](https://github.com/Vokuar/Teamladybug/blob/main/README.md)
+To return to main page click [here](https://github.com/Vokuar/Teamladybug)
 
 ![](https://cdn.discordapp.com/emojis/995680773728370768.webp?size=44&quality=lossless) Server IP 1: **lynx.mc.gg**
 
