@@ -1,5 +1,15 @@
 # LynxMC
 
+To return to main page click [here](https://github.com/Vokuar/Teamladybug)
+
+![](https://cdn.discordapp.com/emojis/995680773728370768.webp?size=44&quality=lossless) Server IP 1: **lynx.mc.gg**
+
+![](https://cdn.discordapp.com/emojis/995680773728370768.webp?size=44&quality=lossless) Server IP 2: **185.56.138.162:29425**
+
+![](https://cdn.discordapp.com/emojis/995680773728370768.webp?size=44&quality=lossless) Server Version: **1.16.5 (modded)**
+
+![](https://cdn.discordapp.com/emojis/995680773728370768.webp?size=44&quality=lossless) Modpack Version: **1.0**
+
 # Mod List
 Current Mod List
 <!--
@@ -16,6 +26,27 @@ requirs 8gb ram
 
 # Installation
 This modpack is currently hosted on the Discord as well as google drive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 # **LYNX MINECRAFT**
 
