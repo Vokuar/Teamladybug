@@ -1,7 +1,7 @@
 # ![](https://cdn.discordapp.com/emojis/995680773728370768.webp?size=44&quality=lossless) LYNX MINECRAFT MODPACK INFO ![](https://cdn.discordapp.com/emojis/995680773728370768.webp?size=44&quality=lossless)
 
 ## Return back to info page
-[here]()
+[here](https://github.com/Vokuar/Teamladybug/blob/LynxMC/README.md)
 
 ## Downloads
 
