@@ -1,6 +1,6 @@
 # Ladybug Minecraft
 
-![Ladybug Minecraft Logo](https://raw.githubusercontent.com/Vokuar/Teamladybug/main/images/ladybug_minecraft_logo.jpg)
+![Ladybug Minecraft Logo](https://github.com/Vokuar/Teamladybug/blob/main/images/LadybugLogo.jpg?raw=true)
 
 Welcome to Ladybug Minecraft! This repository contains information and resources related to the Ladybug Minecraft server.
 
