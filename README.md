@@ -1,17 +1,18 @@
-# **LYNXClassic MINECRAFT**
+# LYNXClassic Minecraft
 
-To return to main page click [here](https://github.com/Vokuar/Teamladybug/blob/main/README.md)
+To return to the main page, click [here](https://github.com/Vokuar/Teamladybug/blob/main/README.md)
 
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/899782127414030356/999415551283712102/lynxlogo.png" alt="LYNXClassic Minecraft Logo" width="500">
+</p>
 
-![](https://cdn.discordapp.com/attachments/899782127414030356/999415551283712102/lynxlogo.png)
-
-# Mod List
+## Mod List
 Current Mod List
 
-# Modpack Permissions
+## Modpack Permissions
 Permission List
 
-# Modpack Requirements
-requirs 8gb ram
+## Modpack Requirements
+Requires 8GB RAM.
 
-# Installation
+## Installation
