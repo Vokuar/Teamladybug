@@ -10,7 +10,7 @@ To return to the main page, click [here](https://github.com/Vokuar/Teamladybug).
 
 - Server IP 1: **ladybug.mc.gg**
 - Server IP 2: **104.254.233.226:20470**
-- Server Version: **1.16.5**
+- Server Version: **1.18.2**
 
 Feel free to join our server and start your Ladybug Minecraft adventure!
 
