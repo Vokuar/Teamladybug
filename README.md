@@ -1,35 +1,5 @@
-# LynxMC
+Migrated to Codeberg
 
-To return to the main page, click [here](https://github.com/Vokuar/Teamladybug)
+All files are now located [there](https://codeberg.org/Vokuar/Teamladybug)
 
-<p align="center">
-  <img src="https://github.com/Vokuar/Teamladybug/blob/main/images/LynxLogo.png?raw=true" alt="LynxMC Logo" width="500">
-</p>
-
-## Server Information
-
-- Server IP 1: **lynx.mc.gg**
-- Server IP 2: **185.56.138.162:29425**
-- Server Version: **1.16.5 (modded)**
-- Modpack Version: **1.0**
-
-## Whitelist
-Applications for the whitelist are on the Discord server.
-
-## Mod List
-Current Mod List
-<!--
-[Current Mod List](versions.md)
--->
-
-## Modpack Permissions
-Permission List
-<!--
-[Permission List](Permissions.md)
--->
-
-## Modpack Requirements
-Requires 8GB RAM.
-
-## Installation
-This modpack is currently hosted on Discord as well as Google Drive.
+[![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
