@@ -1,18 +1,5 @@
-# LYNXClassic Minecraft
+Migrated to Codeberg
 
-To return to the main page, click [here](https://github.com/Vokuar/Teamladybug/blob/main/README.md)
+All files are now located [there](https://codeberg.org/Vokuar/Teamladybug)
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/899782127414030356/999415551283712102/lynxlogo.png" alt="LYNXClassic Minecraft Logo" width="500">
-</p>
-
-## Mod List
-Current Mod List
-
-## Modpack Permissions
-Permission List
-
-## Modpack Requirements
-Requires 8GB RAM.
-
-## Installation
+[![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
